@@ -434,18 +434,6 @@
             "Privilege": 5,
             "ResourceType": 12,
             "id": 9200045
-          },
-          {
-            "Name": "AL - Wells",
-            "Privilege": 5,
-            "ResourceType": 12,
-            "id": 9200044
-          },
-          {
-            "Name": "as<",
-            "Privilege": 5,
-            "ResourceType": 12,
-            "id": 1000000586
           }
     ]
   },
