@@ -494,12 +494,6 @@
             "Privilege": 5,
             "ResourceType": 12,
             "id": 9200001
-          },
-          {
-            "Name": "Boiler",
-            "Privilege": 5,
-            "ResourceType": 12,
-            "id": 1000000010
           }
     ]
   }
