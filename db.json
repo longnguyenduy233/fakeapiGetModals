@@ -482,18 +482,6 @@
             "Privilege": 5,
             "ResourceType": 12,
             "id": 1000000143
-          },
-          {
-            "Name": "as<",
-            "Privilege": 5,
-            "ResourceType": 12,
-            "id": 1000000586
-          },
-          {
-            "Name": "Barge Loading",
-            "Privilege": 5,
-            "ResourceType": 12,
-            "id": 9200001
           }
     ]
   }
