@@ -1,294 +1,203 @@
 [
   {
     "id": 1000005683,
-    "Name": "#M13050518234259",
     "Resources": [
           {
             "Name": "#TMACLASS",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 1000000144
           },
           {
             "Name": "#TMADungTest",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 1000000141
           },
           {
             "Name": "#TmaTest1",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 1000000143
           },
           {
             "Name": "000TestByS",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 1000000142
           },
           {
             "Name": "234234234",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 1000000158
           },
           {
             "Name": "Agency List",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 30
           }
     ]        
   },
   {
     "id": 1000006475,
-    "Name": "#ngaff",
     "Resources": [
           {
             "Name": "AL - Wells",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 9200044
           },
           {
             "Name": "ALongClass",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 1000000159
           },
           {
             "Name": "#TmaTest1",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 1000000143
           },
           {
             "Name": "as<",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 1000000586
           },
           {
             "Name": "Barge Loading",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 9200001
           },
           {
             "Name": "Boiler",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 1000000010
           }
     ]
   },
   {
     "id": 1000006476,
-    "Name": "#ngaff2",
     "Resources": [
           {
             "Name": "Bulk Report",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 89
           },
           {
             "Name": "Checklist",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 3
           },
           {
             "Name": "#TmaTest1",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 1000000143
           },
           {
             "Name": "as<",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 1000000586
           },
           {
             "Name": "Barge Loading",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 9200001
           },
           {
             "Name": "Boiler",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 1000000010
           }
     ]
   },
   {
     "id": 1000000331,
-    "Name": "#ReportHieu",
     "Resources": [
           {
             "Name": "Cooling Tower",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 9200006
           },
           {
             "Name": "Container",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 73
           },
           {
             "Name": "Cont Hi-Bleed Pneumatic (WCI)",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 1000000074
           },
           {
             "Name": "as<",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 1000000586
           },
           {
             "Name": "Barge Loading",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 9200001
           },
           {
             "Name": "Boiler",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 1000000010
           }
     ]
   },
   {
     "id": 1000002635,
-    "Name": "#specialObject",
     "Resources": [
           {
             "Name": "Agency List",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 30
           },
           {
             "Name": "AL - Facility",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 9200045
           },
           {
             "Name": "AL - Wells",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 9200044
           },
           {
             "Name": "as<",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 1000000586
           },
           {
             "Name": "Barge Loading",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 9200001
           },
           {
             "Name": "Boiler",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 1000000010
           }
     ]
   },
   {
     "id": 1000001031,
-    "Name": "#test2",
     "Resources": [
           {
             "Name": "Boiler",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 1000000010
           },
           {
             "Name": "Bulk Report",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 89
           },
           {
             "Name": "Checklist",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 3
           },
           {
             "Name": "Chemical Pump (WCI)",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 1000000070
           },
           {
             "Name": "Comment",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 1000000002
           },
           {
             "Name": "Boiler",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 1000000010
           }
     ]
   },
   {
     "id": 1000006224,
-    "Name": "#TestModel",
     "Resources": [
           {
             "Name": "Agency List",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 30
           },
           {
             "Name": "AL - Facility",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 9200045
           },
           {
             "Name": "AL - Wells",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 9200044
           },
           {
             "Name": "as<",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 1000000586
           },
           {
             "Name": "Barge Loading",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 9200001
           },
           {
             "Name": "Boiler",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 1000000010
           }
     ]
@@ -299,154 +208,132 @@
     "Resources": [
           {
             "Name": "000TestByS",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 1000000142
           },
           {
             "Name": "Agency List",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 30
           },
           {
             "Name": "AL - Facility",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 9200045
           },
           {
             "Name": "Chemical Pump (WCI)",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 1000000070
           },
           {
             "Name": "Comment",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 1000000002
           },
           {
             "Name": "Boiler",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 1000000010
           }
     ]
   },
   {
     "id": 1000000137,
-    "Name": "01HostModel",
     "Resources": [
           {
             "Name": "Bulk Report",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 89
           },
           {
             "Name": "Agency List",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 30
           },
           {
             "Name": "AL - Facility",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 9200045
           },
           {
             "Name": "Chemical Pump (WCI)",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 1000000070
           }
     ]
   },
   {
     "id": 1000000138,
-    "Name": "02GuestModel",
     "Resources": [
           {
             "Name": "Report Export~New",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 1000000110
           },
           {
             "Name": "General~New",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 1000000117
           },
           {
             "Name": "AL - Facility",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 9200045
           }
     ]
   },
   {
     "id": 1000000139,
-    "Name": "03GuestModel",
     "Resources": [
           {
             "Name": "General~New",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 1000000117
           },
          {
             "Name": "General~Derived02",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 1000000124
           },
           {
             "Name": "Report Export~New",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 1000000110
+          },
+          {
+            "Name": "General~New",
+            "id": 1000000117
+          },
+          {
+            "Name": "AL - Facility",
+            "id": 9200045
           }
     ]
   },
   {
     "id": 1000000140,
-    "Name": "10SeparateModel",
-    "Description": "",
     "Resources": [
           {
             "Name": "Equipment~New",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 1000000122
           },
           {
             "Name": "AL - Facility",
-            "Privilege": 5,
-            "ResourceType": 12,
+            "id": 9200045
+          },
+          {
+            "Name": "General~New",
+            "id": 1000000117
+          },
+          {
+            "Name": "AL - Facility",
             "id": 9200045
           }
     ]
   },
   {
     "id": 1000000991,
-    "Name": "1234567890123456789012345678901",
     "Resources": [
           {
             "Name": "Bulk Report",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 89
           },
           {
             "Name": "Checklist",
-            "Privilege": 5,
-            "ResourceType": 12,
             "id": 3
+          },
+          {
+            "Name": "General~New",
+            "id": 1000000117
+          },
+          {
+            "Name": "AL - Facility",
+            "id": 9200045
           }
     ]
   }
